@@ -34,4 +34,11 @@ Say "Help" or "tell me your features" , it will show all it's features
             And yes  more thing to come...
             
 # If you like it leave a Star * on this Repo
+
+![image](https://user-images.githubusercontent.com/11313549/83199718-64016700-a15f-11ea-8d7e-9b04280841f9.png)
+
+![image](https://user-images.githubusercontent.com/11313549/83199495-ed646980-a15e-11ea-8834-d193af78e21d.png)
             
+![image](https://user-images.githubusercontent.com/11313549/83199419-c312ac00-a15e-11ea-865c-54bfebae78bb.png)
+
+

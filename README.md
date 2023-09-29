@@ -1,24 +1,22 @@
 # Jarvis-AI-using-python3
 
-# Modules requires:
-            import pyttsx3  #pip install pyttsx3
-            import datetime  #module
-            import speech_recognition as sr
-            import wikipedia
-            import smtplib
-            import webbrowser as wb
-            import os  #inbuilt
-            import pyautogui
-            import psutil  #pip install psutil
-            import pyjokes  # pip install pyjokes
-            import requests, json  #inbuilt
+# Required Dependencies:
+pyttsx3, speech_recognition, wikipedia, smtplib, pyautogui, psutil, pyjokes, requests
 
+# Installing Dependencies:
+
+```
+pip install -r requirements.txt
+```
+Just Run This command and all dependencies will be installed!
+
+# About The Project:
 
 This is the New Jarvis AI Project it will do some functionality followed by user query.
 
 Say "Help" or "tell me your features" , it will show all it's features
 
-# This AI can do:
+# What This AI Assistant can do:
             it can help to do lot many things like..
             it can tell you the current time and date,
             it can tell you the current weather,
@@ -31,7 +29,7 @@ Say "Help" or "tell me your features" , it will show all it's features
             it can open any website, on chrome web-browser
             it can search the thing on wikipedia,
             it can change his/her voice from male to female and vice-versa
-            And yes  more thing to come...
+            More Features Soon...
             
 # If you like it leave a Star 🌟 on this Repo
 

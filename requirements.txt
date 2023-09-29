@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+smtplib
+pyautogui
+psutil
+pyjokes
+requests

@@ -6,7 +6,7 @@
 
 # Description
 
-This is the Jarvis AI Project made in Python3. It is a virtual assistent and has a variety of features it can carry out.
+This is the Jarvis AI Project made in Python3. It is a virtual assistant and has a variety of features it can carry out.
 
 Say "Help" or "Tell me your features" and Jarvis will say all of its capabilities.
 
@@ -43,9 +43,9 @@ Once Jarvis is in its listening state, you can say what you want it to do by spe
 - Take screenshots
 - Send emails to your boss or family or your friend
 - Shut down or logout or hibernate your system
-- Tell you non funny jokes :)
+- Tell you non-funny jokes :)
 - Open any website
-- Search wikipedia for information
+- Search Wikipedia for information
 - Change his/her voice from male to female and vice-versa
 
 And many more features to come...
@@ -85,7 +85,7 @@ And many more features to come...
 
 ### System
 
-*What is the current cpu and battery?*  
+*What is the current CPU and battery?*  
 *Logout of my account*  
 *Restart my computer*  
 *Shut down my computer*
@@ -120,7 +120,7 @@ And many more features to come...
 ### Shutdown Jarvis
 
 *I am done*  
-*Bye bye jarvis*
+*Bye bye Jarvis*
 
 
 # If you like it leave a Star 🌟 on this Repo

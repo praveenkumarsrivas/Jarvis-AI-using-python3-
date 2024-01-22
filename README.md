@@ -29,6 +29,15 @@ Say "Help" or "Tell me your features" and Jarvis will say all of its capabilitie
 
         jarvis.py
 
+# Configuration
+
+1. Open the Project Directory
+
+        cd Jarvis-AI-using-python3-
+
+2. Open jarvis.py
+
+3. Change The Required Values.
 
 # How To Use
 

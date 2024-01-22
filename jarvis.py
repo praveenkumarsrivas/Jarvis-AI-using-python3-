@@ -73,6 +73,24 @@ def checktime(tt):
     else:
         speak("it's night sir!")
 
+#brain
+def chat_with_brainshop(api_key, bot_id, message):
+    base_url = "http://api.brainshop.ai"
+    endpoint = "/get"
+    
+    url = f"{base_url}{endpoint}?bid={bot_id}&key={api_key}&uid=1&msg={message}"
+
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        return response.json().get('cnt')
+    else:
+        return "Error communicating with BrainShop API"
+
+# Replace 'YOUR_API_KEY' and 'YOUR_BOT_ID' with your actual API key and bot ID
+api_key = 'YOUR_API_KEY'
+bot_id = 'YOUR_BOT_ID'
+
 
 #welcome function
 def wishme():
@@ -369,3 +387,7 @@ if __name__ == "__main__":
               or 'go offline jarvis' in query or 'bye' in query
               or 'nothing' in query):
             wishme_end()
+
+        else:
+            response = chat_with_brainshop(api_key, bot_id, query)
+            speak(response)

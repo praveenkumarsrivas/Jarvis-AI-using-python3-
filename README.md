@@ -27,7 +27,7 @@ Say "Help" or "Tell me your features" and Jarvis will say all of its capabilitie
 
 4. Run the Script
 
-        jarvis.py
+        python jarvis.py
 
 
 # How To Use
